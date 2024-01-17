@@ -33,7 +33,7 @@
 </summary>
 
 <p align="center">
-![First_complete](https://github.com/AisultanAskarov/YBB-Budget-Expense-Planner/assets/36818367/c1322976-67df-41c0-b8ae-ea72fb8a50ff)
+<img src=https://github.com/AisultanAskarov/YBB-Budget-Expense-Planner/assets/36818367/c1322976-67df-41c0-b8ae-ea72fb8a50ff>
 </p>
 
 <p align="center">
