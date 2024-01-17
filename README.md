@@ -37,19 +37,19 @@
 </p>
 
 <p align="center">
-![Second_complete](https://github.com/AisultanAskarov/YBB-Budget-Expense-Planner/assets/36818367/325067c1-5eb3-4846-91c6-0aa64e3336fb)
+<img src=https://github.com/AisultanAskarov/YBB-Budget-Expense-Planner/assets/36818367/325067c1-5eb3-4846-91c6-0aa64e3336fb>
 </p>
 
 <p align="center">
-![Third_complete](https://github.com/AisultanAskarov/YBB-Budget-Expense-Planner/assets/36818367/cccc3128-fd1a-4862-96a1-7459d94c00ea)
+<img src=https://github.com/AisultanAskarov/YBB-Budget-Expense-Planner/assets/36818367/cccc3128-fd1a-4862-96a1-7459d94c00ea>
 </p>
 
 <p align="center">
-![Fourth_complete](https://github.com/AisultanAskarov/YBB-Budget-Expense-Planner/assets/36818367/bf2dd6d9-117e-4666-8508-f9edfa8f3ad1)
+<img src=https://github.com/AisultanAskarov/YBB-Budget-Expense-Planner/assets/36818367/bf2dd6d9-117e-4666-8508-f9edfa8f3ad1>
 </p>
 
 <p align="center">
-![Fifth_complete](https://github.com/AisultanAskarov/YBB-Budget-Expense-Planner/assets/36818367/ccb9668e-ce38-487e-81ef-84d934c434db)
+<img src=https://github.com/AisultanAskarov/YBB-Budget-Expense-Planner/assets/36818367/ccb9668e-ce38-487e-81ef-84d934c434db>
 </p>
 
 </details>
