@@ -1,19 +1,22 @@
 # YBB - Budget & Expense Planner
 
-#### YBB is an iOS budgeting app built with SwiftUI and CoreData. The idea of developing a budgeting app came to my mind when I was trying to track my budget as a part-time freelance developer. I find almost every other budgeting apps way too over-complicated and packed with unnecessary features. That's when I decided to create the most straight-to-the-point budgeting app. YBB not only lets you budget your expenses in a singular currency but lets you have each budget with its currency and converts all of them to the main currency of the app. This lets you  keep your vocational budgets in local currency while still having an overall picture in your main currency of choice.
+#### YBB is an iOS budgeting app built with SwiftUI and CoreData. The idea of developing a budgeting app came to my mind when I was trying to track my budget as a part-time freelance developer. I have found almost every other budgeting apps way too over-complicated and packed with unnecessary features. That's when I decided to create the most straight-to-the-point budgeting app. YBB not only lets you budget your expenses in a singular currency but lets you have each budget with its currency and converts all of them to the main currency of the app. This lets you  keep your vocational budgets in local currency while still having an overall picture in your main currency of choice.
 
 #### YBB is available [on AppStore](https://apps.apple.com/us/app/ybb-budget-expense-planner/id6467672552)
 
 ## ⭐️ Features:
 
-* Sign in with Apple and Email.
-* User profile with email, name, profile picture, etc.
-* Complete break-down of training plans and running sessions progress.
-* Muscle groups are broke in sections with an individual focus areas.
-* Training plans for athletes of any level. Beginner/Intermediate/Advanced.
-* Running sessions with custom goal targets. User gets voice notifications once they reach their goal for the session.
-* Set notifications for the upcoming workouts.
-* Post your workout stats to social media platforms with RebFit's custom sticker.
+- Unlimited Budgets & Entries
+- Add Reminders
+- Partials: keep track of spending on Entries which are not fixed (such as Groceries or Gas)
+- Mark your Entries as Paid & see the "Paid" Balance
+- Drag to reorder your Budgets & Entries
+- Add Notes to your Entries
+- View Charts of your Budgets
+- View Charts go your top spending & earnings
+- See a Running Balance of all your Budgets
+- See a Running Balance of your Entries
+- Choice of Currency Symbols (or add your own)
 
 ## 🛠️ Technologies:
 
