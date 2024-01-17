@@ -18,6 +18,16 @@
 - See a Running Balance of your Entries
 - Choice of Currency Symbols (or add your own)
 
+## 🔜 Upcoming Features:
+
+- Print your Budgets & Charts
+- Export your Budgets (to CSV files for your spreadsheet software)
+- Organizing budgets in folders
+- Multiple profiles (for you, your family, etc.)
+- More languages
+- Passcode, Touch ID & Face ID integration
+- Copy Budgets & Entries
+
 ## 🛠️ Technologies:
 
 * Binding Patterns: `MVVM`
