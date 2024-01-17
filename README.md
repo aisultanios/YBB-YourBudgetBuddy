@@ -38,7 +38,7 @@
 <details>
 <summary>
   
-  ## 📸 - Images of the running app
+  ## 📸 - Images of the app
   
 </summary>
 
