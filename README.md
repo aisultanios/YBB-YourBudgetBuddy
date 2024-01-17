@@ -18,6 +18,13 @@
 - See a Running Balance of your Entries
 - Choice of Currency Symbols (or add your own)
 
+## 🛠️ Technologies:
+
+- Binding Patterns: `MVVM`
+- Frontend: `Swift`
+- Frameworks: `SwiftUI`, `CoreData`, `Combine`, `Push Notifications`, `Charts`
+- API's: `exchangeratesapi.io`
+
 ## 🔜 Upcoming Features:
 
 - Print your Budgets & Charts
@@ -27,13 +34,6 @@
 - More languages
 - Passcode, Touch ID & Face ID integration
 - Copy Budgets & Entries
-
-## 🛠️ Technologies:
-
-* Binding Patterns: `MVVM`
-* Frontend: `Swift`
-* Frameworks: `SwiftUI`, `CoreData`, `Combine`, `Push Notifications`, `Charts`
-* API's: `exchangeratesapi.io`
 
 <details>
 <summary>
