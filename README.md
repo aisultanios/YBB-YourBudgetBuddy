@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/920a8a5a-ea8d-4005-8712-e83ee53b921e width="200" height="200">
+<img src=https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/7d7214c2-6e99-4627-a57b-fe82079aba4a width="200" height="200">
 </p>
 
 # YBB - Budget & Expense Planner
