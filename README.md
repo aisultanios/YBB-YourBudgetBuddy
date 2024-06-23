@@ -6,10 +6,6 @@
 
 #### YBB is an iOS budgeting app that I’ve built using SwiftUI and CoreData. It offers a simple, intuitive UI without unnecessary features, yet it includes all the essential tools to help users achieve their financial goals. Key features include envelope management, dynamic currencies, advanced analytics, personalized financial advice, and more. As a budgeting enthusiast, I often use apps for quick inputs but prefer to maintain an overall view of my finances in a spreadsheet like Excel. To accommodate this, I’ve added a feature that allows users to export their financial statements and budgets in CSV format, which can be imported into any spreadsheet software. Future updates will include support for native Excel (.xlsx) format.
 
-## Inspiration
-
-The idea for YBB came to me when as a freelancer I struggled to manage multiple income sources and various bank accounts in different currencies. Living abroad added to the complexity, creating a potential financial disaster in the long run. After trying numerous budgeting apps, I found that those with the features I needed had unintuitive UIs, while simpler apps lacked the necessary tools to stay on budget. This led me to develop YBB, an app that meets my needs and helps others, while also serving as a valuable addition to my software engineering portfolio.
-
 #### YBB is available [on AppStore](https://apps.apple.com/us/app/ybb-budget-expense-planner/id6467672552)
 
 ## ⭐️ Features:
@@ -44,6 +40,10 @@ The idea for YBB came to me when as a freelancer I struggled to manage multiple 
 - Cloud Sync: Easily access the same data on all your iPhones
 - Multiple Profiles: For you, your family, your business, etc.
 - More Languages: Russian, Kazakh, Turkish, German, and French are closest on the list
+
+## 💡 Idea
+
+The idea for YBB came to me when as a freelancer I struggled to manage multiple income sources and various bank accounts in different currencies. Living abroad added to the complexity, creating a potential financial disaster in the long run. After trying numerous budgeting apps, I found that those with the features I needed had unintuitive UIs, while simpler apps lacked the necessary tools to stay on budget. This led me to develop YBB, an app that meets my needs and helps others, while also serving as a valuable addition to my software engineering portfolio.
 
 <details>
 <summary>
