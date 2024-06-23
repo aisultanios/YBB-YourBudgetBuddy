@@ -45,12 +45,7 @@ YBB is an iOS budgeting app that I’ve built using SwiftUI and CoreData. It off
 
 The idea for YBB came to me when as a freelancer I struggled to manage multiple income sources and various bank accounts in different currencies. Living abroad added to the complexity, creating a potential financial disaster in the long run. After trying numerous budgeting apps, I found that those with the features I needed had unintuitive UIs, while simpler apps lacked the necessary tools to stay on budget. This led me to develop YBB, an app that meets my needs and helps others, while also serving as a valuable addition to my software engineering portfolio.
 
-<details>
-<summary>
-  
-  ## 📸 - Images of the app
-  
-</summary>
+## 📸 - Images of the app
 
 <p align="center">
 <img src=https://github.com/AisultanAskarov/YBB-Budget-Expense-Planner/assets/36818367/c1322976-67df-41c0-b8ae-ea72fb8a50ff>
@@ -72,4 +67,3 @@ The idea for YBB came to me when as a freelancer I struggled to manage multiple 
 <img src=https://github.com/AisultanAskarov/YBB-Budget-Expense-Planner/assets/36818367/ccb9668e-ce38-487e-81ef-84d934c434db>
 </p>
 
-</details>
