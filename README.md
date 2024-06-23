@@ -48,15 +48,7 @@ The idea for YBB came to me when as a freelancer I struggled to manage multiple 
 ## 📸 - App Images
 
 <p align="center">
-<img src=https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/6d4b6d82-b9c1-418f-834f-9145ae6e3fe7>
-</p>
-
-<p align="center">
-<img src=https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/240caa75-69aa-41b1-a05c-50ca200338f7>
-</p>
-
-<p align="center">
-<img src=https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/b0aab1e6-ab3a-4805-9a41-841fca3dd6bb>
+<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/b0aab1e6-ab3a-4805-9a41-841fca3dd6bb" width="516" height="1119">
 </p>
 
 <p align="center">
