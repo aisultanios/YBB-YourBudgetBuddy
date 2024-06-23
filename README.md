@@ -12,17 +12,17 @@ YBB not only lets you budget your expenses in a singular currency but lets you h
 
 ## ⭐️ Features:
 
-•  Unlimited Budgets & Entries.
-•  Add Reminders, Images, and make notes to your Entries.
-•  Partials: keep track of spending on Entries that are not fixed. (such as Groceries or Gas)
-•  See a Running Balance of all your Budgets.
-•  See a Running Balance of your Entries.
-•  View Charts of your cash flow categorized by periods. (Weekly, monthly, yearly, all-time, or a custom period)
-•  Select a period on the bar chart and review your spending trends, stats, charts, composition, and more on Analytics View.
-•  Currencies with dynamic rates for your Budgets. Each budget can be of a different currency but will be converted to present an accurate total balance in your main currency. (30+ currencies)
-•  Export your budgets and Custom period cashflow statements. (to CSV files for your spreadsheet software)
-•  Security Lock on your YBB. (Passcode, Touch ID & Face ID integration)
-•  Drag to reorder your Budgets, Entries, and Partials.
+-  Unlimited Budgets & Entries.
+-  Add Reminders, Images, and make notes to your Entries.
+-  Partials: keep track of spending on Entries that are not fixed. (such as Groceries or Gas)
+-  See a Running Balance of all your Budgets.
+-  See a Running Balance of your Entries.
+-  View Charts of your cash flow categorized by periods. (Weekly, monthly, yearly, all-time, or a custom period)
+-  Select a period on the bar chart and review your spending trends, stats, charts, composition, and more on Analytics View.
+-  Currencies with dynamic rates for your Budgets. Each budget can be of a different currency but will be converted to present an accurate total balance in your main currency. (30+ currencies)
+-  Export your budgets and Custom period cashflow statements. (to CSV files for your spreadsheet software)
+-  Security Lock on your YBB. (Passcode, Touch ID & Face ID integration)
+-  Drag to reorder your Budgets, Entries, and Partials.
 
 
 ## 🛠️ Technologies:
