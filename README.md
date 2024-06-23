@@ -4,26 +4,26 @@
 
 # YBB - Budget & Expense Planner
 
-#### YBB is an iOS budgeting app that I've built with SwiftUI and CoreData. The idea of developing a budgeting app came to my mind when I was trying to track my budget as a part-time freelance developer. I have found almost every other budgeting app way too over-complicated and packed with unnecessary features. That's when I decided to create the most straight-to-the-point budgeting app. 
+#### YBB is an iOS budgeting app that I’ve built using SwiftUI and CoreData. It offers a simple, intuitive UI without unnecessary features, yet it includes all the essential tools to help users achieve their financial goals. Key features include envelope management, dynamic currencies, advanced analytics, personalized financial advice, and more. As a budgeting enthusiast, I often use apps for quick inputs but prefer to maintain an overall view of my finances in a spreadsheet like Excel. To accommodate this, I’ve added a feature that allows users to export their financial statements and budgets in CSV format, which can be imported into any spreadsheet software. Future updates will include support for native Excel (.xlsx) format.
 
-YBB not only lets you budget your expenses in a singular currency but lets you have each budget with its currency and converts all of them to the main currency of the app. This lets you  keep your vocational budgets in local currency while still having an overall picture in your main currency of choice.
+## Inspiration
+
+The idea for YBB came to me when as a freelancer I struggled to manage multiple income sources and various bank accounts in different currencies. Living abroad added to the complexity, creating a potential financial disaster in the long run. After trying numerous budgeting apps, I found that those with the features I needed had unintuitive UIs, while simpler apps lacked the necessary tools to stay on budget. This led me to develop YBB, an app that meets my needs and helps others, while also serving as a valuable addition to my software engineering portfolio.
 
 #### YBB is available [on AppStore](https://apps.apple.com/us/app/ybb-budget-expense-planner/id6467672552)
 
 ## ⭐️ Features:
 
-- Unlimited Budgets & Entries.
-- Add Reminders, Images, and make notes to your Entries.
-- Partials: keep track of spending on Entries that are not fixed. (such as Groceries or Gas)
-- See a Running Balance of all your Budgets.
-- See a Running Balance of your Entries.
-- View Charts of your cash flow categorized by periods. (Weekly, monthly, yearly, all-time, or a custom period)
-- Select a period on the bar chart and review your spending trends, stats, charts, composition, and more on Analytics View.
-- Currencies with dynamic rates for your Budgets. Each budget can be of a different currency but will be converted to present an accurate total balance in your main currency. (30+ currencies)
-- Export your budgets and Custom period cashflow statements. (to CSV files for your spreadsheet software)
-- Security Lock on your YBB. (Passcode, Touch ID & Face ID integration)
-- Drag to reorder your Budgets, Entries, and Partials.
-
+- Unlimited Budgets & Entries
+- Add Reminders, Images, and Notes to Entries
+- Partials: Track spending on non-fixed entries (e.g., Groceries, Gas, Subscriptions)
+- Running Balance: View balances for all budgets and entries
+- Charts: Visualize cash flow by periods (Weekly, Monthly, Yearly, All-time, Custom)
+- Analytics View: Review spending trends, stats, charts, and composition
+- Dynamic Currencies: Manage budgets in different currencies with real-time conversion (30+ currencies)
+- Export & Share: Export budgets and cash flow statements to CSV for spreadsheet software
+- Security Lock: Protect your data with Passcode, Touch ID, and Face ID integration
+- Drag to Reorder: Easily reorder budgets, entries, and partials
 
 ## 🛠️ Technologies:
 
@@ -32,19 +32,18 @@ YBB not only lets you budget your expenses in a singular currency but lets you h
 - Frameworks: `SwiftUI`, `CoreData`, `Combine`, `Push Notifications`, `Charts`
 - API's: `exchangeratesapi.io`
 
-
 ## 🔜 Upcoming Features:
 
-- Calculator for income and expense entries.
-- Copy & duplicate your Budgets and Entries.
-- Reoccurring entries.
-- Print your Budgets & Charts.
-- Export your Budgets and Custom period cashflow statements. (to .xlsx format for Excel spreadsheet software)
-- Export & Import your Budgets from & to other devices that have YBB installed.
-- Widgets for quick entries on the go.
-- Cloud Sync: easily accessing the same data on all your iPhones.
-- Multiple profiles. (for you, your family, your business, etc.)
-- More Languages. (Russian, Kazakh, Turkish, German, and French are closest on the list)
+- Calculator: For income and expense entries
+- Copy & Duplicate: Budgets and entries
+- Reoccurring Entries
+- Print Budgets & Charts
+- Export in .xlsx format: For Excel spreadsheet software
+- Export & Import your Budgets from & to other devices that have YBB installed
+- Widgets: For quick entries on the go & Quick stats overview
+- Cloud Sync: Easily access the same data on all your iPhones
+- Multiple Profiles: For you, your family, your business, etc.
+- More Languages: Russian, Kazakh, Turkish, German, and French are closest on the list
 
 <details>
 <summary>
