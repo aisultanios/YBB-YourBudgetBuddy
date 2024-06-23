@@ -48,34 +48,34 @@ The idea for YBB came to me when as a freelancer I struggled to manage multiple 
 ## 📸 - App Images
 
 <p align="center">
-<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/b0aab1e6-ab3a-4805-9a41-841fca3dd6bb" width="516" height="1119">
+<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/b0aab1e6-ab3a-4805-9a41-841fca3dd6bb" width="430" height="932">
 </p>
 
 <p align="center">
-<img src=https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/df15b849-582c-4897-b617-71b29272f763>
+<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/df15b849-582c-4897-b617-71b29272f763" width="430" height="932">
 </p>
 
 <p align="center">
-<img src=https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/5addd985-8c40-4eab-a331-6f6f612dbad9>
+<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/5addd985-8c40-4eab-a331-6f6f612dbad9" width="430" height="932">
 </p>
 
 <p align="center">
-<img src=https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/e98bb693-75bc-48a6-ae50-8faa79029624>
+<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/e98bb693-75bc-48a6-ae50-8faa79029624" width="430" height="932">
 </p>
 
 <p align="center">
-<img src=https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/63703628-92d0-4314-98d8-f0837b9623ae>
+<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/63703628-92d0-4314-98d8-f0837b9623ae" width="430" height="932">
 </p>
 
 <p align="center">
-<img src=https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/15d30553-64f4-475f-a0e1-fec3e5974166>
+<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/15d30553-64f4-475f-a0e1-fec3e5974166" width="430" height="932">
 </p>
 
 <p align="center">
-<img src=https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/f604e84b-c856-42a6-9d62-c5a787e6375e>
+<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/f604e84b-c856-42a6-9d62-c5a787e6375e" width="430" height="932">
 </p>
 
 <p align="center">
-<img src=https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/4426954a-8959-4719-849e-4a1e0679ae6e>
+<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/4426954a-8959-4719-849e-4a1e0679ae6e" width="430" height="932">
 </p>
 
