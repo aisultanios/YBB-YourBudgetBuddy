@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://github.com/user-attachments/assets/5ad5e971-1f95-4653-9c12-3999dd765f18 width="200" height="200">
+<img src=https://github.com/user-attachments/assets/217ea46f-347d-46e0-8cb6-44f49c6f11a4 width="200" height="200">
 </p>
 
 # YBB - Budget & Expense Planner
@@ -7,6 +7,9 @@
 YBB is an iOS budgeting app that I’ve built using SwiftUI and CoreData. It offers a simple, yet intuitive UI without unnecessary features, while having all the essential tools to help users achieve their financial goals. Key features include envelope management, dynamic currencies, advanced analytics, personalized financial advices, and more. As a budgeting enthusiast, I often use apps for quick inputs but prefer to maintain a bigger view of my finances in a separate spreadsheet software like Excel. To accommodate this, I’ve added a feature that allows users to export their financial statements and budgets in CSV format, which can be imported into any spreadsheet software. Future updates will include support for native Excel (.xlsx) format with template layouts.
 
 #### YBB is available [on AppStore](https://apps.apple.com/us/app/ybb-budget-expense-planner/id6467672552)
+
+<img width="1182" alt="Снимок экрана 2024-08-10 в 22 55 09" src="https://github.com/user-attachments/assets/3b9c734d-cfe9-4c1f-a239-ba3bc2bdf7ab">
+<img width="1182" alt="Снимок экрана 2024-08-10 в 22 55 49" src="https://github.com/user-attachments/assets/d9d2ff13-621d-45c3-ab61-42eb576b069e">
 
 ## ⭐️ Features:
 
