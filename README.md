@@ -8,7 +8,7 @@ YBB is an iOS budgeting app that I’ve built using SwiftUI and CoreData. It off
 
 #### YBB is available [on AppStore](https://apps.apple.com/us/app/ybb-budget-expense-planner/id6467672552)
 
-<img width="1684" alt="Снимок экрана 2024-08-10 в 22 58 24" src="https://github.com/user-attachments/assets/4828375f-6c09-43da-a97c-8b43d7c08764">
+<img width="1182" alt="Снимок экрана 2024-08-10 в 22 58 24" src="https://github.com/user-attachments/assets/4828375f-6c09-43da-a97c-8b43d7c08764">
 <img width="1182" alt="Снимок экрана 2024-08-10 в 22 55 49" src="https://github.com/user-attachments/assets/d9d2ff13-621d-45c3-ab61-42eb576b069e">
 
 ## ⭐️ Features:
