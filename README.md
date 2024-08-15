@@ -48,37 +48,33 @@ YBB is an iOS budgeting app that I’ve built using SwiftUI and CoreData. It off
 
 The idea to develop YBB came to me when as a freelancer I struggled to manage multiple income sources and various bank accounts in different currencies. Living abroad added to the complexity, creating a potential financial disaster in the long run. After trying numerous budgeting apps, I found that those with the features I needed had unintuitive UIs, confusing even an experienced user like me, while simpler apps lacked the necessary tools that I needed to stay on budget. This led me to develop YBB, an app that meets my needs and helps others, while also serving as a valuable addition to my software engineering portfolio.
 
-## 📸 - App Images
+## 📹 - Video Demonstration of The App
 
-<p align="center">
-<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/b0aab1e6-ab3a-4805-9a41-841fca3dd6bb" width="430" height="932">
-</p>
+https://github.com/user-attachments/assets/a9240747-64e2-4b6f-8d68-67498d41ce37
 
-<p align="center">
-<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/df15b849-582c-4897-b617-71b29272f763" width="430" height="932">
-</p>
+https://github.com/user-attachments/assets/a85d7119-f464-4524-a574-c8deab547530
 
-<p align="center">
-<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/5addd985-8c40-4eab-a331-6f6f612dbad9" width="430" height="932">
-</p>
+https://github.com/user-attachments/assets/46baec30-9a74-4479-a44c-ad2e619e63e2
 
-<p align="center">
-<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/e98bb693-75bc-48a6-ae50-8faa79029624" width="430" height="932">
-</p>
+https://github.com/user-attachments/assets/ccc50385-91b2-4f40-8dce-9241b45bf4d3
 
-<p align="center">
-<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/63703628-92d0-4314-98d8-f0837b9623ae" width="430" height="932">
-</p>
+https://github.com/user-attachments/assets/3e2c12f2-5a59-4234-ad97-9f5efeb010c8
 
-<p align="center">
-<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/15d30553-64f4-475f-a0e1-fec3e5974166" width="430" height="932">
-</p>
+https://github.com/user-attachments/assets/d694f1f5-2d06-4640-994a-a73a8ba570da
 
-<p align="center">
-<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/f604e84b-c856-42a6-9d62-c5a787e6375e" width="430" height="932">
-</p>
 
-<p align="center">
-<img src="https://github.com/AisultanAskarov/YBB-YourBudgetBuddy/assets/36818367/4426954a-8959-4719-849e-4a1e0679ae6e" width="430" height="932">
-</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
